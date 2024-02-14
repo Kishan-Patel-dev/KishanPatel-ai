@@ -165,4 +165,4 @@ Freelance work
  -->
 
  
-<img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Consistency🔁Success&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+<img width=100% title="Kishan Patel" alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Consistency🔁Success&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
